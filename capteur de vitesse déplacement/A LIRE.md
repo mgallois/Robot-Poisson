@@ -14,9 +14,9 @@ Au début, nous ne disposions pas de tube de Pitot adéquat et pour rendre facil
 
 Capteur :
 
-<img src="documents tiers/Images/12.jpg">
-<img src="documents tiers/Images/13.jpg">
-<img src="documents tiers/Images/14.jpg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362280-58e14d80-a390-11ea-83d0-c9b2e465b701.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362281-5bdc3e00-a390-11ea-99c8-c5817f0f04d1.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362283-5da60180-a390-11ea-9e49-c0436a1d8f3f.jpg)
 
 [Code pour l’utilisation](https://github.com/mgallois/Robot-Poisson/blob/master/codes%20divers/code%20arduino/capteur_pression/capteur_pression.ino)
 
@@ -28,8 +28,9 @@ Doc capteur : [résumé](https://github.com/mgallois/Robot-Poisson/blob/master/c
 
 Montage :
 
-<img src="documents tiers/Images/15.jpg">
-<img src="documents tiers/Images/16.jpg">
-<img src="documents tiers/Images/17.jpg">
-<img src="documents tiers/Images/18.jpg">
-<img src="documents tiers/Images/19.jpg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362285-5f6fc500-a390-11ea-8e57-aa5a8e797a2e.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362286-61d21f00-a390-11ea-9c4e-660227b97cc3.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362287-63034c00-a390-11ea-944c-120a73290bbd.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362288-64cd0f80-a390-11ea-9b76-2372990698cc.jpg)
+
+Les premiers tests semblent bien renvoyer un résultat linéaire lorque la variation de pression est due à une variation de la profondeur sous l'eau. Les tests à venir devrais permettre de déterminer de déterminer une loi entre la vitesse de déplacement de la capsule et la différence de pression mesurée.
