@@ -6,7 +6,7 @@ Plusieurs domaines d’applications sont touchés par la nécessité d’entrepr
 
 Cependant certaines profondeurs sont difficiles d’accès, des engins de faible volume qui embarquent l’énergie nécessaire à la réalisation de leur mission sont alors indispensables. D’où le besoin de systèmes peu énergivore.
 
-Il faut savoir que dans le milieu du XXième siècle, le biologiste Sir James Gray mis en évidence une singularité à qui il donna son nom . Son hypothèse, qui a formé la base de l'analyse énergétique de la nage des dauphins par Gray, était qu'un animal qui nage dépense essentiellement son énergie musculaire pour surmonter la traînée. Or il énonça que la puissance dépensée par un dauphin pour nager à une vitesse donnée peut être sept fois inférieure à celle utilisée par des moteurs pour propulser un corps rigide à la même vitesse, ce qui conduit au paradoxe. [Extrait de sa thèse](https://jeb.biologists.org/content/jexbio/13/2/192.full.pdf)
+Il faut savoir que dans le milieu du XXième siècle, le biologiste Sir James Gray mis en évidence une singularité à qui il donna son nom . Son hypothèse, qui a formé la base de l'analyse énergétique de la nage des dauphins par Gray, était qu'un animal qui nage dépense essentiellement son énergie musculaire pour surmonter la traînée. Or il énonça que la puissance dépensée par un dauphin pour nager à une vitesse donnée peut être sept fois inférieure à celle utilisée par des moteurs pour propulser un corps rigide à la même vitesse, ce qui conduit au paradoxe. [Extrait de sa thèse](https://jeb.biologists.org/content/jexbio/13/2/192.full.pdf).
 
 Ainsi sa conjecture doit être révisé :  la puissance de traînée peut être supérieure à la puissance musculaire sans enfreindre tout principe physique.
 
