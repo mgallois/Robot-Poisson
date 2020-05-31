@@ -6,9 +6,7 @@ L’objectif de cette partie est de réaliser un capteur de vitesse du poisson. 
 
 Principe :
 
-Au vu de la vitesse faible du poisson nous nous dirigeons vers un capteur de pression différentiel (tube de Pitot). En voici le principe : 
-
-<img src="documents tiers/Images/11.jpeg">
+Au vu de la vitesse faible du poisson nous nous dirigeons vers un capteur de pression différentiel (tube de Pitot). En voici le principe :
 
 Au début, nous ne disposions pas de tube de Pitot adéquat et pour rendre facile la communication avec une carte arduino nous avons commencé par utiliser un capteur de pression différentiel placé dans un capsule étanche.
 
