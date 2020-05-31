@@ -8,7 +8,7 @@ Principe :
 
 Au vu de la vitesse faible du poisson nous nous dirigeons vers un capteur de pression différentiel (tube de Pitot). En voici le principe :
 
-<img src="documents tiers/Images/11.jpeg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362148-47e40c80-a38f-11ea-848c-f2f9003ab683.jpeg)
 
 Au début, nous ne disposions pas de tube de Pitot adéquat et pour rendre facile la communication avec une carte arduino nous avons commencé par utiliser un capteur de pression différentiel placé dans un capsule étanche.
 
