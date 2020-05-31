@@ -2,7 +2,7 @@ Un poisson ressemble souvent au profil NACA (aile d’avion) qui est la forme la
 
 Un poisson se déplace en propageant le long de son corps une onde longitudinale, et donc la nageoire dorsale. Lorsque celle-ci est mise en oscillation périodique, cela joue sur les schémas de tourbillons observés dans le sillage. A partir d’une certaine amplitude d’oscillation seuil, on peut observer une inversion du sens de rotation des tourbillons créés dans le sillage par rapport au cas statique.
 
-<img src="documents tiers/Images/1.png">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362264-30f1ea00-a390-11ea-9de1-2b7e5916db46.png)
 
 Dans le cas statique, un bilan de la vitesse moyenne de l’écoulement montrera que la présence du sillage tourbillonnaire est associée à une diminution de la vitesse moyenne de l’écoulement, ce qui est caractéristique d’une force de trainée sur la nageoire fixe. 
 
