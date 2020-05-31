@@ -33,4 +33,4 @@ Montage :
 ![alt tag](https://user-images.githubusercontent.com/64842540/83362287-63034c00-a390-11ea-944c-120a73290bbd.jpg)
 ![alt tag](https://user-images.githubusercontent.com/64842540/83362288-64cd0f80-a390-11ea-9b76-2372990698cc.jpg)
 
-Les premiers tests semblent bien renvoyer un résultat linéaire lorque la variation de pression est due à une variation de la profondeur sous l'eau. Les tests à venir devrais permettre de déterminer de déterminer une loi entre la vitesse de déplacement de la capsule et la différence de pression mesurée.
+Les premiers tests semblent bien renvoyer un résultat linéaire lorque la variation de pression est due à une variation de la profondeur sous l'eau. Les tests à venir devraient permettre de déterminer une loi entre la vitesse de déplacement de la capsule et la différence de pression mesurée.
