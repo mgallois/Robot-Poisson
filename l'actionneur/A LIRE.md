@@ -4,14 +4,14 @@ __Principe de fonctionnement :__
 
 L’objectif est d’agiter la queue du poisson pour qu’ils puisse nager. L’utilisation d’un servomoteur classique nous a semblé compliqué car beaucoup d’entre eux ont un temps de parcourt beaucoup trop long. Nous avons donc décidé d’en concevoir un nouveau :
 
-<img src="documents tiers/Images/8.jpg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362272-4d8e2200-a390-11ea-9d76-69e6e2675015.jpg)
 
 Comme le montre cette image, l’idée est d’utiliser un aimant permanant qui serait placé à l’intérieur d’une bobine. En faisait circuler un courant dans la bobine, nous créons un couple sur l’aimant. En faisant circuler un courant alternatif, nous pouvons agiter les aimants.
 
 Dans la pratique, nous fixons les aimant dans un cadre imprimé en 3D auquel la queue du poisson pourra venir se fixer :
 
-<img src="documents tiers/Images/9.jpg">
-<img src="documents tiers/Images/10.jpg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362273-4f57e580-a390-11ea-8eed-115f07a5bea1.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362274-51ba3f80-a390-11ea-8f3b-51361f32ecce.jpg)
 
 La commande se fait soit par un montage push pull ([vidéo](https://youtu.be/8bh-lfFtLSA)), soit à l’aide d’une carte arduino ([code](https://github.com/mgallois/Robot-Poisson/blob/master/codes%20divers/code%20arduino/programme_commande_actionneur/programme_commande_actionneur.ino)).
 
