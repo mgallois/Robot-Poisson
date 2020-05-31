@@ -12,7 +12,7 @@ I_ DETERMINER LES DEFORMATIONS POSSIBLES ET SIMULATION
 
 Nous observons la déformation d’une feuille de papier de fort grammage (300g.m-2) soumise à une excitation sinusoïdale à l’une de ses extrémités :
 
-<img src="documents tiers/Images/2.PNG">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362265-33ecda80-a390-11ea-988f-6326b90430bf.PNG)
 
 En fonction de la fréquence, nous obtenons différentes déformation types. Nous pouvons ensuite utiliser Lylipad pour déterminer à quelle vitesse se déplacerait un profil Nacca qui aurait ces déformations. Le profil Nacca utilisé correspond à la forme prévue dans [ce fichier](https://github.com/mgallois/Robot-Poisson/blob/master/Plans/mod%C3%A8le%20de%20queue.SLDPRT).
 
@@ -50,9 +50,9 @@ Nous allons mesurer le temps de réponse à un échelon pour un battement en fon
 
 Montage sans plaque de PVC :
 
-<img src="documents tiers/Images/3.jpg">
-<img src="documents tiers/Images/4.jpg">
-<img src="documents tiers/Images/5.jpg">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362266-37806180-a390-11ea-8807-987e4b3c2d98.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362267-3fd89c80-a390-11ea-830b-9ca685f11d0d.jpg)
+![alt tag](https://user-images.githubusercontent.com/64842540/83362268-436c2380-a390-11ea-91ce-1db17f5627bc.jpg)
 
 Code Arduino [ici](https://github.com/mgallois/Robot-Poisson/blob/master/codes%20divers/code%20arduino/code_calcul_Cr/code_calcul_Cr.ino).
 
@@ -60,12 +60,12 @@ Les plaques de PVC sont identifiées par leur longueur noté h.
 
 Résultat de l’expérience :
 
-<img src="documents tiers/Images/6.JPG">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362269-47984100-a390-11ea-93a5-e79462c6684c.JPG)
 
 NB : le point h=0 correspond à la valeur à vide, c’est-à-dire sans plaque de PVC.
 
 Pour l’intensité maximale (2500 mA), on peut obtenir la fréquence maximale en fonction de h(mm) :
 
-<img src="documents tiers/Images/7.JPG">
+![alt tag](https://user-images.githubusercontent.com/64842540/83362270-49fa9b00-a390-11ea-9567-eb76fc614406.JPG)
 
 Nous chercherons donc à fabriquer une queue d’environ 9cm. 
